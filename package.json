@@ -1,0 +1,12 @@
+{
+  "name": "template_project",
+  "version": "1.0.0",
+  "description": "using EJS and a template engine",
+  "private": true,
+  "dependencies": {
+    "ejs": "2",
+    "express": "4",
+    "sequelize": "^6.6.2",
+    "sqlite3": "^5.0.2"
+  }
+}
